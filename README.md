@@ -2,14 +2,14 @@
 
 **Statistician and data scientist** · Mathematics, UNAM · Mexico City
 
-I build statistical models that other people can check and rely on: explicit assumptions, honest uncertainty, and code anyone can rerun. My work spans clinical trials, observational health studies, national surveys and government adm### What I work on
+I build statistical models that other people can check and rely on: explicit assumptions, honest uncertainty, and code anyone can rerun. My work spans clinical trials, observational health studies, national surveys and government administrative data.
+
+### What I work on
 
 - Bayesian longitudinal models (Stan) and clinical-trial data for a clinical-epidemiology consultancy.
 - Statistical analysis for clinical research at Hospital Infantil de México Federico Gómez.
 - Earlier: classification models for Mexico's working population (STPS) and pipelines for national household surveys (INEGI).
 - Teaching assistant in 13 courses at UNAM's Facultad de Ciencias, from multivariate statistics and machine learning to survival analysis.
-
-astic simulation.
 
 ### Selected work
 
