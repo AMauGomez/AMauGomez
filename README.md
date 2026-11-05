@@ -1,10 +1,10 @@
 ## Hi, I'm Aaron Gómez 👋
 
-Statistician (Mathematics, UNAM) working on **statistical modeling for health data**: clinical trials, observational studies and national surveys. I prefer models I can explain (GLMs, survival, mixed and Bayesian hierarchical models) and analyses that someone else can rerun.
+Statistician (Mathematics, UNAM) who builds **statistical models that support decisions**: so far mostly on health data (clinical trials, observational studies) and national surveys. I prefer models I can explain and defend, such as GLMs, survival, mixed and Bayesian hierarchical models, which are the same tools behind credit risk, insurance pricing and model validation. I care about analyses that someone else can rerun.
 
 - 🔬 **Now:** statistical programmer at a clinical-epidemiology consultancy: preparing clinical-trial data, running Bayesian models in Stan, checking model assumptions and writing reports.
 - 🏥 Statistical analysis for clinical research at Hospital Infantil de México Federico Gómez.
-- 🎓 Teaching assistant at Facultad de Ciencias, UNAM: 13 courses in probability, inference, survival, linear models, time series and simulation.
+- 🎓 Teaching assistant at Facultad de Ciencias, UNAM: 13 courses in multivariate statistics and machine learning, probability, inference, linear models, survival, time series and stochastic simulation.
 
 ### Featured projects
 
