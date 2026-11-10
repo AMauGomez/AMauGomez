@@ -1,14 +1,14 @@
 ## Aaron Gómez
 
-**Statistician · credit risk and statistical modeling** · Mathematics, UNAM · Mexico City
+**Statistician & data scientist · credit risk and statistical modeling** · Mathematics, UNAM · Mexico City
 
 I build statistical models that other people can check and rely on: explicit assumptions, honest uncertainty, and code anyone can rerun. My recent projects are in credit risk and loan pricing (survival models for default, out-of-time validation, portfolio loss simulation against the Basel formula); my paid work and publications are in clinical trials, health data and national surveys.
 
 ### What I work on
 
-- Statistical consultant (part-time, remote) for a Canada-based clinical-epidemiology research team: running and diagnosing Bayesian longitudinal models in Stan, and turning 12 years of Mexican health-system administrative records into analysis-ready panel data.
-- Collaborating statistician for clinical research at Hospital Infantil de México Federico Gómez.
-- Earlier, social service at INEGI: national household and employment surveys (ENIGH, ENOE) with survey weights, input–output multipliers, and a job-quality index built with principal components for the Ministry of Labour (STPS).
+- **Statistical consultant** (part-time, remote) for a Canada-based clinical-epidemiology research team: I fit and validate Bayesian longitudinal models in Stan on individual-patient trial data (convergence diagnostics, cross-validated model comparison), build the R pipelines behind 12 years of Mexican health-system records, and estimate national prevalences from ENSANUT under its complex survey design.
+- **Collaborating statistician** for clinical research at Hospital Infantil de México Federico Gómez (co-author, *Nutrients* 2026).
+- Earlier, **statistics intern** in INEGI's research directorate: weighted estimation on national household and employment microdata (ENIGH, ENOE), and a job-quality index for the Ministry of Labour (STPS) built as a latent variable with principal components, complemented with regression and cluster analysis.
 - Teaching assistant in 13 courses at UNAM's Facultad de Ciencias, from multivariate statistics and machine learning to survival analysis. I teach Statistical Inference and Regression around real-data case studies ([pedestrian crashes](https://amaugomez.github.io/cdmx-pedestrian-crashes/), [mortgage pricing](https://amaugomez.github.io/mortgage-pricing-regression/)).
 
 ### Selected work
@@ -30,7 +30,7 @@ I build statistical models that other people can check and rely on: explicit ass
 
 ### Methods and tools
 
-**Methods:** credit risk (PD, competing risks, Cox models with out-of-time validation, Vasicek/Basel portfolio loss simulation) · generalised linear models, including frequency models with exposure · ANOVA/ANCOVA/MANCOVA · survival analysis · Bayesian models and MCMC · multiple imputation · survey sampling and complex designs · clinical-trial analysis · meta-analysis<br>
-**Tools:** R · Python · SQL · Stan · SAS · Git · Quarto · LaTeX
+**Methods:** credit risk (PD, competing risks, Cox models with out-of-time validation, Vasicek/Basel portfolio loss simulation) · generalised linear models, including frequency models with exposure · ANOVA/ANCOVA/MANCOVA · survival analysis · Bayesian models and MCMC · multiple imputation · survey sampling and complex designs · clinical-trial analysis · meta-analysis · machine learning (PCA, k-means and hierarchical clustering, discriminant analysis, SVM, k-NN)<br>
+**Tools:** R · Python · SQL · Stan · Git · Quarto · LaTeX
 
 [LinkedIn](https://www.linkedin.com/in/amaugomezjimenez) · [ORCID](https://orcid.org/0009-0003-1099-0431) · maugomez@ciencias.unam.mx
